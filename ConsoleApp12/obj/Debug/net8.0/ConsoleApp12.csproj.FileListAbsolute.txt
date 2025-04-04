@@ -1,0 +1,28 @@
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.exe
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.deps.json
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.runtimeconfig.json
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.dll
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.pdb
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.dll
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\refint\ConsoleApp12.dll
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.pdb
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0\ref\ConsoleApp12.dll
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.exe
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.deps.json
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.runtimeconfig.json
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.dll
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.pdb
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.dll
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\refint\ConsoleApp12.dll
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.pdb
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\rodri\Desktop\cory project\ConsoleApp12\obj\Debug\net8.0\ref\ConsoleApp12.dll
